@@ -1,0 +1,5 @@
+huggingface_hub
+Pillow
+tqdm
+python-telegram-bot==21.6
+requests
