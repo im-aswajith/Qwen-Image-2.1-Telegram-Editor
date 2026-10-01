@@ -1,0 +1,542 @@
+ASWAJITH STRICT SOURCE LICENSE
+Version 1.0 — 1 October 2026
+
+Copyright (c) 2026 Aswajith
+GitHub: https://github.com/im-aswajith
+
+IMPORTANT NOTICE
+
+This is a custom, restrictive, source-available license.
+
+This license is NOT an OSI-approved Open Source license and does NOT grant general open-source rights.
+
+The purpose of this license is to allow individuals to inspect and privately use the Software while retaining strict control over redistribution, publication, commercial exploitation, hosted services, and derivative works.
+
+1. DEFINITIONS
+
+1.1 "Software"
+
+"Software" means the original source code, scripts, configuration files, documentation, original assets, and other materials authored by Aswajith and distributed as part of this repository.
+
+1.2 "Owner"
+
+"Owner" means Aswajith, identified through the GitHub account:
+
+https://github.com/im-aswajith
+
+1.3 "Repository"
+
+"Repository" means the GitHub repository in which this license is distributed, together with its official versions and releases.
+
+1.4 "Third-Party Material"
+
+"Third-Party Material" means anything that is not wholly authored and owned by the Owner, including but not limited to:
+
+- AI models
+- Model weights
+- GGUF files
+- VAE files
+- Text encoders
+- Vision encoders
+- Datasets
+- Python packages
+- Libraries
+- Frameworks
+- Binaries
+- APIs
+- Services
+- Fonts
+- Logos
+- Trademarks
+- Icons
+- External assets
+- External source code
+
+Third-Party Material remains subject to its own licenses and terms.
+
+2. LIMITED PERSONAL LICENSE
+
+Subject to full compliance with this License, the Owner grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
+
+(a) view the Software;
+
+(b) download the Software;
+
+(c) install and execute the Software for personal, non-commercial purposes;
+
+(d) study the Software;
+
+(e) modify the Software privately for personal, non-commercial purposes; and
+
+(f) create private copies of the Software for personal, non-commercial use.
+
+No rights beyond those expressly granted in this section are provided.
+
+3. PROHIBITED ACTIVITIES
+
+Unless the Owner provides prior written permission, you may NOT:
+
+(a) sell the Software or any substantial portion of it;
+
+(b) license or sublicense the Software;
+
+(c) rent, lease, or otherwise commercially distribute the Software;
+
+(d) redistribute copies of the Software;
+
+(e) mirror the complete repository or substantial portions of the repository on another hosting service;
+
+(f) publish modified versions of the Software;
+
+(g) publish derivative source code based substantially on the Software;
+
+(h) create public forks containing the Software or substantial portions of it;
+
+(i) package the Software for redistribution;
+
+(j) incorporate substantial portions of the Software into another public project;
+
+(k) operate the Software as a commercial SaaS product;
+
+(l) operate the Software as a paid inference service;
+
+(m) operate the Software as a commercial API;
+
+(n) operate the Software as a paid Telegram bot or other commercial bot;
+
+(o) provide paid access to an installation or deployment of the Software;
+
+(p) use the Software as the core technology of a commercial product or service;
+
+(q) remove, modify, hide, or obscure copyright notices;
+
+(r) remove or replace this License;
+
+(s) falsely claim authorship of the Owner's original code;
+
+(t) impersonate the Owner;
+
+(u) use the Owner's name, identity, GitHub account, branding, or project identity to imply endorsement, sponsorship, partnership, or official affiliation;
+
+(v) grant another person or organization rights that you do not possess under this License; or
+
+(w) use the Software for any purpose prohibited by applicable law.
+
+4. PRIVATE MODIFICATIONS
+
+You may modify the Software privately for personal and non-commercial purposes.
+
+Private modifications may include:
+
+- changing configuration values;
+- changing prompts;
+- changing user interfaces;
+- fixing bugs;
+- adding private features;
+- changing inference settings;
+- adapting the Software to your hardware;
+- integrating private utilities.
+
+However, privately modified copies must not be publicly published, redistributed, sold, sublicensed, or commercially deployed without written permission from the Owner.
+
+5. PUBLICATION OF MODIFICATIONS
+
+Publishing modifications, forks, derivative repositories, patches, replacement implementations, or substantial portions of the Software requires prior written permission from the Owner.
+
+A modification is considered published if it is made publicly accessible through, including but not limited to:
+
+- GitHub;
+- GitLab;
+- Bitbucket;
+- Hugging Face;
+- Google Drive public links;
+- public websites;
+- public package repositories;
+- public model repositories;
+- forums;
+- social-media downloads;
+- public file-sharing services;
+- application stores;
+- public APIs;
+- public container registries.
+
+6. REDISTRIBUTION
+
+Redistribution is prohibited unless expressly authorized in writing by the Owner.
+
+This restriction applies to both modified and unmodified copies.
+
+Redistribution includes:
+
+(a) uploading the repository to another public repository;
+
+(b) distributing ZIP archives;
+
+(c) distributing installers;
+
+(d) distributing executable builds;
+
+(e) distributing modified source code;
+
+(f) distributing copies through file-sharing platforms;
+
+(g) distributing the Software through application stores;
+
+(h) embedding substantial portions of the Software into publicly distributed software; and
+
+(i) distributing the Software through commercial or non-commercial hosted services.
+
+7. COMMERCIAL USE
+
+Commercial use is NOT permitted under this License.
+
+Commercial use includes, without limitation:
+
+(a) selling access to the Software;
+
+(b) selling access to generated outputs through a service built around the Software;
+
+(c) charging users for an inference service;
+
+(d) charging users for a hosted bot;
+
+(e) offering the Software as part of a paid SaaS platform;
+
+(f) using the Software as part of a commercial API;
+
+(g) incorporating substantial portions of the Software into a commercial application;
+
+(h) using the Software to provide paid services to customers;
+
+(i) licensing the Software to third parties; or
+
+(j) monetizing a deployment whose primary functionality substantially depends upon the Software.
+
+Commercial use requires separate written authorization from the Owner.
+
+8. COMMERCIAL PERMISSION
+
+The Owner may, at their sole discretion, grant separate commercial permission.
+
+Such permission may include additional conditions including:
+
+- licensing fees;
+- attribution requirements;
+- deployment restrictions;
+- user limits;
+- geographic restrictions;
+- source-code requirements;
+- reporting requirements;
+- duration limits;
+- support requirements;
+- termination conditions.
+
+No commercial permission exists unless explicitly granted in writing.
+
+9. ATTRIBUTION
+
+Any use expressly authorized by the Owner must retain the following attribution unless the Owner provides written permission to remove or modify it:
+
+Copyright (c) 2026 Aswajith
+GitHub: https://github.com/im-aswajith
+
+The project name, copyright notices, license notices, and other attribution information must not be intentionally removed or obscured.
+
+10. THIRD-PARTY MATERIAL
+
+This License applies ONLY to material owned by the Owner.
+
+This License does NOT replace, override, modify, or supersede the license of any Third-Party Material.
+
+Third-Party Material must be used according to its own applicable terms.
+
+The repository may use or download third-party components, including AI models, model weights, libraries, binaries, APIs, and services.
+
+You are responsible for reviewing and complying with the applicable terms of those components.
+
+11. AI MODEL LICENSES
+
+AI models and model weights are not automatically licensed under this License.
+
+Where the Software downloads or uses third-party AI models, those models remain subject to their respective licenses.
+
+You must independently verify:
+
+(a) whether the model may be downloaded;
+
+(b) whether the model may be used commercially;
+
+(c) whether redistribution is allowed;
+
+(d) whether generated outputs have additional restrictions;
+
+(e) whether model-specific attribution is required; and
+
+(f) whether any additional acceptable-use requirements apply.
+
+Nothing in this License grants permission to redistribute or commercially use third-party model weights.
+
+12. DEPENDENCIES
+
+Python packages, libraries, frameworks, binaries, drivers, and other dependencies remain subject to their respective licenses.
+
+This License does not grant ownership of or rights to those dependencies.
+
+Examples may include:
+
+- Python;
+- PyTorch;
+- Hugging Face libraries;
+- python-telegram-bot;
+- Vulkan;
+- stable-diffusion.cpp;
+- Pillow;
+- Requests;
+- tqdm;
+- NVIDIA software;
+- Telegram services;
+- Qwen model components.
+
+The examples above are informational and do not constitute an exhaustive list.
+
+13. TRADEMARKS
+
+This License does not grant permission to use any trademark, service mark, logo, trade name, or brand belonging to the Owner or any third party.
+
+Third-party names and trademarks remain the property of their respective owners.
+
+This includes, without limitation, names associated with:
+
+- Qwen;
+- Alibaba Cloud;
+- Hugging Face;
+- Telegram;
+- NVIDIA;
+- Vulkan;
+- GitHub;
+- Google Colab;
+- other third-party projects and services.
+
+14. NO ENDORSEMENT
+
+Use of the Software does not create or imply any relationship with the Owner.
+
+You may not claim or imply that the Owner:
+
+(a) endorses your project;
+
+(b) sponsors your project;
+
+(c) officially supports your deployment;
+
+(d) is affiliated with your organization;
+
+(e) has approved your modifications; or
+
+(f) is responsible for your deployment.
+
+15. SECURITY AND CREDENTIALS
+
+The Software may interact with credentials, tokens, APIs, bots, external services, or other sensitive configuration.
+
+You are responsible for protecting your own credentials.
+
+You must not publish private credentials, authentication tokens, API keys, passwords, or other secrets.
+
+The Owner is not responsible for credentials accidentally exposed by users or third-party deployments.
+
+16. USER DATA
+
+The Owner does not automatically receive or control data generated by independent deployments of the Software.
+
+Operators of deployed copies are responsible for complying with applicable privacy, data-protection, and security laws.
+
+You are responsible for informing your users about how your deployment handles their data.
+
+17. GENERATED CONTENT
+
+The Owner does not claim ownership of content generated through independent use of third-party AI models solely because the Software provides an interface to those models.
+
+Ownership and permitted use of generated content may depend on:
+
+(a) the applicable model license;
+
+(b) applicable law;
+
+(c) the input material;
+
+(d) third-party rights;
+
+(e) platform terms; and
+
+(f) the specific deployment.
+
+Users are responsible for determining whether their intended use of generated content is lawful.
+
+18. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE".
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+(a) MERCHANTABILITY;
+
+(b) FITNESS FOR A PARTICULAR PURPOSE;
+
+(c) TITLE;
+
+(d) NON-INFRINGEMENT;
+
+(e) ACCURACY;
+
+(f) RELIABILITY;
+
+(g) SECURITY;
+
+(h) AVAILABILITY;
+
+(i) PERFORMANCE; AND
+
+(j) COMPATIBILITY WITH ANY PARTICULAR HARDWARE OR SOFTWARE ENVIRONMENT.
+
+The Owner does not guarantee that the Software will operate without errors, interruptions, vulnerabilities, or compatibility issues.
+
+19. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATING TO THE SOFTWARE.
+
+This includes, without limitation:
+
+(a) loss of data;
+
+(b) loss of profits;
+
+(c) loss of revenue;
+
+(d) loss of business;
+
+(e) service interruption;
+
+(f) hardware damage;
+
+(g) software damage;
+
+(h) security incidents;
+
+(i) unauthorized access;
+
+(j) model failures;
+
+(k) generated-content issues; or
+
+(l) third-party service failures.
+
+20. USER RESPONSIBILITY
+
+You are solely responsible for your use of the Software.
+
+You are responsible for:
+
+(a) complying with applicable laws;
+
+(b) complying with third-party licenses;
+
+(c) protecting credentials;
+
+(d) protecting user data;
+
+(e) securing your deployment;
+
+(f) obtaining required permissions;
+
+(g) ensuring that your intended use is lawful; and
+
+(h) ensuring that your use does not violate third-party rights.
+
+21. TERMINATION
+
+This License automatically terminates upon a material violation of its terms.
+
+Upon termination, you must cease activities that require authorization under this License.
+
+Where legally applicable, termination does not affect rights that were lawfully acquired before termination.
+
+22. NO Sublicensing
+
+You may not sublicense the Software.
+
+You may not grant any third party a license to the Software that is broader than the rights granted to you under this License.
+
+23. NO PATENT LICENSE
+
+No patent license is granted by this License.
+
+No patent rights are granted expressly, implicitly, by estoppel, or otherwise.
+
+24. NO CONTRIBUTOR RIGHTS
+
+Unless expressly agreed in writing, submitting code, documentation, assets, or other material to the project does not automatically grant you ownership of the repository or its original code.
+
+Contributions may be subject to separate contribution terms established by the Owner.
+
+25. FORKS
+
+Creating a private fork for personal use is permitted only within the limitations of this License.
+
+Public forks are prohibited unless expressly authorized by the Owner.
+
+A fork that is publicly accessible is considered redistribution and/or publication.
+
+26. MIRRORS
+
+Public mirrors of the repository or substantial portions of the repository are prohibited without written permission.
+
+This includes mirrors created for backup, convenience, distribution, or hosting purposes.
+
+27. ARCHIVED COPIES
+
+Private archival copies are permitted for personal, non-commercial use.
+
+Public archival copies are not permitted without written authorization.
+
+28. LICENSE MODIFICATIONS
+
+You may not modify this License and represent the modified version as the official license of the Owner's Software.
+
+If additional permissions are granted, those permissions must be documented separately.
+
+29. SEVERABILITY
+
+If any provision of this License is found to be invalid, unlawful, or unenforceable, that provision shall be interpreted or limited to the minimum extent necessary, and the remaining provisions shall remain in effect to the maximum extent permitted by law.
+
+30. NO WAIVER
+
+Failure by the Owner to enforce any provision of this License does not constitute a permanent waiver of that provision.
+
+A waiver must be expressly provided in writing.
+
+31. ENTIRE AGREEMENT
+
+This License constitutes the complete license terms governing the Owner's Software unless a separate written agreement expressly supersedes or supplements these terms.
+
+32. CHANGES TO THE LICENSE
+
+The Owner may publish updated versions of this License for future releases.
+
+Unless expressly stated otherwise, the license applicable to an existing version remains the license included with that version.
+
+33. CONTACT AND PERMISSION
+
+Requests for commercial use, redistribution, publication, public forks, hosted services, or other permissions outside this License should be directed to the Owner through the official GitHub account:
+
+https://github.com/im-aswajith
+
+Permission is valid only when explicitly granted by the Owner.
+
+34. COPYRIGHT
+
+Copyright (c) 2026 Aswajith
+
+All rights reserved except for the limited rights expressly granted by this License.
+
+END OF ASWAJITH STRICT SOURCE LICENSE
